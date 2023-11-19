@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RichEditLog_Demo", "RichEditLog_Demo.vcxproj", "{E6CFE1D1-5ED0-46A8-BE67-B6BF6E2BBA59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6CFE1D1-5ED0-46A8-BE67-B6BF6E2BBA59}.Debug|x86.ActiveCfg = Debug|Win32
+		{E6CFE1D1-5ED0-46A8-BE67-B6BF6E2BBA59}.Debug|x86.Build.0 = Debug|Win32
+		{E6CFE1D1-5ED0-46A8-BE67-B6BF6E2BBA59}.Release|x86.ActiveCfg = Release|Win32
+		{E6CFE1D1-5ED0-46A8-BE67-B6BF6E2BBA59}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CEC09F2-2207-4668-9414-E859E6CD8A08}
+	EndGlobalSection
+EndGlobal

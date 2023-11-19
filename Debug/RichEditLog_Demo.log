@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Cluster_Size.cpp
+  code_Huffman.cpp
+  C_Password.cpp
+  Gest_Serial.cpp
+  Serial.cpp
+  SerialDlg.cpp
+J:\Application(s)\Serial\SerialDlg.cpp(243,12): warning C4101: 'cr' : variable locale non référencée
+  Génération de code en cours...
+Cluster_Size.obj : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/SAFESEH'
+  RichEditLog_Demo.vcxproj -> J:\Application(s)\Serial\Debug\Serial.exe

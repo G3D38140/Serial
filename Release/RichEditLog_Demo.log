@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Cluster_Size.cpp
+  code_Huffman.cpp
+  C_Password.cpp
+  Gest_Serial.cpp
+  Serial.cpp
+  SerialDlg.cpp
+J:\Application(s)\Serial\SerialDlg.cpp(243,12): warning C4101: 'cr' : variable locale non référencée
+  Génération de code en cours...
+  RichEditLog_Demo.vcxproj -> J:\Application(s)\Serial\Release\Serial.exe

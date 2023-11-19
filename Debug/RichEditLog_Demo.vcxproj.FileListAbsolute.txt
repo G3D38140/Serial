@@ -1,0 +1,3 @@
+I:\Projets\Serial\Debug\Serial.exe
+I:\Projets\Serial\Debug\Serial.pdb
+J:\Application(s)\Serial\Debug\Serial.exe

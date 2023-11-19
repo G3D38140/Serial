@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  Cluster_Size.cpp
+  code_Huffman.cpp
+J:\Application(s)\Serial\code_Huffman.cpp(115,36): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+J:\Application(s)\Serial\code_Huffman.cpp(122,34): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+J:\Application(s)\Serial\code_Huffman.cpp(305,26): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+  C_Password.cpp
+  Gest_Serial.cpp
+J:\Application(s)\Serial\Gest_Serial.cpp(182,37): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  Serial.cpp
+  SerialDlg.cpp
+J:\Application(s)\Serial\SerialDlg.cpp(243,12): warning C4101: 'cr' : variable locale non référencée
+  Génération de code en cours...
+  RichEditLog_Demo.vcxproj -> J:\Application(s)\Serial\x64\Debug\Serial.exe

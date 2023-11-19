@@ -1,0 +1,87 @@
+Depends Version V1.0
+
+File analyzed: F:\Run_short_Symplytrade.exe
+
+Name Dll: mfc140.dll
+Name Dll: KERNEL32.dll
+   ==> Function Name UnDecorated: GetCommandLineW
+   ==> Function Name UnDecorated: LocalFree
+   ==> Function Name UnDecorated: MultiByteToWideChar
+   ==> Function Name UnDecorated: UnhandledExceptionFilter
+   ==> Function Name UnDecorated: GetLastError
+   ==> Function Name UnDecorated: InitializeCriticalSectionAndSpinCount
+   ==> Function Name UnDecorated: DeleteCriticalSection
+   ==> Function Name UnDecorated: CreateEventW
+   ==> Function Name UnDecorated: GetModuleHandleW
+   ==> Function Name UnDecorated: GetProcAddress
+   ==> Function Name UnDecorated: CloseHandle
+   ==> Function Name UnDecorated: SetUnhandledExceptionFilter
+   ==> Function Name UnDecorated: GetCurrentProcess
+   ==> Function Name UnDecorated: TerminateProcess
+   ==> Function Name UnDecorated: IsProcessorFeaturePresent
+   ==> Function Name UnDecorated: IsDebuggerPresent
+   ==> Function Name UnDecorated: GetStartupInfoW
+   ==> Function Name UnDecorated: QueryPerformanceCounter
+   ==> Function Name UnDecorated: GetCurrentProcessId
+   ==> Function Name UnDecorated: GetCurrentThreadId
+   ==> Function Name UnDecorated: GetSystemTimeAsFileTime
+   ==> Function Name UnDecorated: InitializeSListHead
+   ==> Function Name UnDecorated: OutputDebugStringW
+Name Dll: USER32.dll
+   ==> Function Name UnDecorated: LoadIconW
+   ==> Function Name UnDecorated: GetClientRect
+   ==> Function Name UnDecorated: DrawIcon
+   ==> Function Name UnDecorated: GetSystemMetrics
+   ==> Function Name UnDecorated: EnableWindow
+   ==> Function Name UnDecorated: GetFocus
+   ==> Function Name UnDecorated: IsIconic
+   ==> Function Name UnDecorated: SendMessageA
+Name Dll: SHELL32.dll
+   ==> Function Name UnDecorated: CommandLineToArgvW
+Name Dll: COMCTL32.dll
+Name Dll: ole32.dll
+   ==> Function Name UnDecorated: CoCreateInstance
+   ==> Function Name UnDecorated: CoInitialize
+Name Dll: OLEAUT32.dll
+Name Dll: VCRUNTIME140.dll
+   ==> Function Name UnDecorated: _except_handler4_common
+   ==> Function Name UnDecorated: __CxxFrameHandler3
+   ==> Function Name UnDecorated: memset
+   ==> Function Name UnDecorated: __current_exception
+   ==> Function Name UnDecorated: __current_exception_context
+   ==> Function Name UnDecorated: _CxxThrowException
+Name Dll: api-ms-win-crt-time-l1-1-0.dll
+   ==> Function Name UnDecorated: _ftime64_s
+Name Dll: api-ms-win-crt-stdio-l1-1-0.dll
+   ==> Function Name UnDecorated: __p__commode
+   ==> Function Name UnDecorated: _set_fmode
+   ==> Function Name UnDecorated: __stdio_common_vfwprintf
+   ==> Function Name UnDecorated: __acrt_iob_func
+Name Dll: api-ms-win-crt-heap-l1-1-0.dll
+   ==> Function Name UnDecorated: _set_new_mode
+   ==> Function Name UnDecorated: free
+Name Dll: api-ms-win-crt-runtime-l1-1-0.dll
+   ==> Function Name UnDecorated: _initialize_onexit_table
+   ==> Function Name UnDecorated: _register_onexit_function
+   ==> Function Name UnDecorated: _crt_atexit
+   ==> Function Name UnDecorated: _cexit
+   ==> Function Name UnDecorated: _seh_filter_exe
+   ==> Function Name UnDecorated: _initialize_narrow_environment
+   ==> Function Name UnDecorated: _get_narrow_winmain_command_line
+   ==> Function Name UnDecorated: _initterm
+   ==> Function Name UnDecorated: _initterm_e
+   ==> Function Name UnDecorated: exit
+   ==> Function Name UnDecorated: _exit
+   ==> Function Name UnDecorated: _c_exit
+   ==> Function Name UnDecorated: _register_thread_local_exe_atexit_callback
+   ==> Function Name UnDecorated: _set_app_type
+   ==> Function Name UnDecorated: terminate
+   ==> Function Name UnDecorated: _controlfp_s
+   ==> Function Name UnDecorated: _configure_narrow_argv
+Name Dll: api-ms-win-crt-math-l1-1-0.dll
+   ==> Function Name UnDecorated: __setusermatherr
+Name Dll: api-ms-win-crt-locale-l1-1-0.dll
+   ==> Function Name UnDecorated: _configthreadlocale
+   ==> Function Name UnDecorated: _setmbcp
+
+End off analyze

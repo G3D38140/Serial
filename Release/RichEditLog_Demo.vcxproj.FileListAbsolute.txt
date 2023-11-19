@@ -1,0 +1,2 @@
+I:\Projets\Serial\Release\Serial.exe
+J:\Application(s)\Serial\Release\Serial.exe
